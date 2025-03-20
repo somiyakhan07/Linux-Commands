@@ -1,0 +1,43 @@
+1. For Creating The File
+
+# cat >file1
+
+click [ Control + D ] to create and save file
+
+
+2. For Listing Directory and File
+
+# ls
+
+
+3. For Adding The Data In File Using Cat Command
+
+# cat >filename
+
+
+4. To Open The File To Check Or See By Using Cat Command
+
+# cat filename
+
+
+5. Create a file with the [.] extention with yaml
+
+# cat >filename.yaml
+
+
+click [ Control + D ] to create and save file
+
+6. Add The Content 'Namaste DevOps' in the yaml file that we have created
+
+# cat >>filename.yaml 
+
+[ Add The Content] 
+
+'Namaste DevOps'
+
+click [ Control + D ] to create and save file
+
+
+7. Convert 2 File in a One File
+
+# cat file1 file2 file3 >>file4
