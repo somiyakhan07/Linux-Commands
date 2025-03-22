@@ -1,0 +1,15 @@
+1. For Creating a Hidden File
+
+# touch .filename 
+
+(only add [ . ] for creating Hidden File)
+
+2. For Checking All The Hidden Files
+
+# ls -a
+
+3. For Creating Hidden Folder/Directory
+
+# mkdir .directoryname
+
+( Add The [ . ] before Filename)
