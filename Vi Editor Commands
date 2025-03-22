@@ -1,0 +1,17 @@
+Note:-
+a) :w -> To Save The File
+b) :wq -> To Save & Quite
+c) q -> quite
+d) q! -> Force quit, no Save
+
+1. To Edit Any File By Using vi Editor
+
+# -vi filename
+
+(important to edit press/click the [ i ] button)
+
+(Now, it's Insert Mode is On, We Can Edit The File)
+
+(press the ESC Botton to Off the Insert Mode)
+
+(press {:wq} To Save and Quit)
