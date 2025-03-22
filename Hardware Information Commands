@@ -1,0 +1,21 @@
+1. To Find the amount of free and used rom memory in the system
+
+# free -<options>
+
+options are:- 
+-b  -> byte
+-k  -> kb
+-m -> mb
+-g  -> gb
+
+(show the o/p in bytes kb,mb,gb human readable form)
+
+
+2. For All Information of RAM
+
+# dmidecode -t 16
+
+
+3. For Checking The Storage
+
+# df -h
