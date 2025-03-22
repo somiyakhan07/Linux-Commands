@@ -1,0 +1,11 @@
+1.If You Want To Give All Permission To The Directory
+
+# chmod 777 directoryname
+
+2. Command For Changing The Owner
+
+# chown newuser filename         (or dir)
+
+3. Command Changing The Group Name
+
+# chgrp newgroupname filename  (or dir)
