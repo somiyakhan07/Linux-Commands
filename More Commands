@@ -1,0 +1,101 @@
+1. If You Want To Find The Content Within Files
+
+# grep -r "text" /path
+
+(text - that word you want to find in file,
+/path- where you want to find that text in which dir)
+
+
+2. SORT COMMAND 
+(For Arranging A File By Alphabetically Order)
+
+# sort filename
+
+
+3. HEAD COMMAD 
+(For Showing above (top) ten line of a document
+
+# head filename
+
+
+4. TAIL COMMAND
+(For Showing Below (last ten line) of a document)
+
+# tail filename
+
+
+5. To Create A New User
+
+# useradd username
+
+
+6. To Create A New Group
+
+# groupadd groupname
+
+
+7. To Add a One User To a Group
+
+# gpasswd -a username groupname
+
+
+8. Add Many Users To a Group
+
+# gpasswd -m username groupname
+
+
+9. For Creating a Soft Link
+
+# ln -s filename softlink
+
+
+10. For Checking This Softlink Is Created Or Not
+
+# ls -l
+
+
+11. ‘W’ Get Command 
+
+(This Command is used for downloading purpose)
+
+# wget <URL>
+
+
+12. For Clearing The Terminal Screen
+
+# clear
+
+
+13. It Will Display Calender And Today's Date Will Be Shown
+
+# cal
+
+
+14. Will Show Two Months At Once: The Current Month And The Previous Month Or Next Month
+
+# cal -2
+
+
+15. To Display The Calender For Entire Year
+
+# cal 20** 
+
+
+16. For Checking The User is Created Or Not
+
+# cat /etc/passwd
+
+
+17. For Checking The Group Created Or Not
+
+# cat /etc/group
+
+
+18. Change To The Previous Directory
+
+# cd -
+
+
+19. Go up one directory (parent directory)
+
+# cd ..
