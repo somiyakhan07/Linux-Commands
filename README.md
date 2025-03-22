@@ -1,7 +1,3 @@
-Here’s a **professional and clean** `README.md` file for your GitHub repository:  
-
----
-
 # **📂 Linux Commands Cheat Sheet**  
 
 🚀 Welcome to the **Linux Commands Cheat Sheet** repository! This repo contains a comprehensive collection of **essential Linux commands**, categorized for easy reference. Whether you're a beginner or an advanced user, this guide will help you navigate the Linux terminal efficiently.  
