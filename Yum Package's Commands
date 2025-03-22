@@ -1,0 +1,60 @@
+If You want to install, uninstall, remove, start any package (software) use the yum commands
+
+(yum is the software it is by default configured in a linux)
+
+1. For Installing The Package
+
+# sudo yum install packagename_-y
+
+(Use [ -y ] For Avoiding Yes Or No) 
+
+
+2. For Removing the Package
+
+# sudo yum remove packagename -y
+
+
+3. For Updating The Package
+
+# sudo yum update packagename
+
+
+4. For Starting The Package/Service
+
+# service packagename start  (old system)
+
+# sudo systemctl start packagename
+
+ (modern system,recenty used for starting jenkins service)
+
+
+5. For Checking Status Of A Package
+
+# service packagename status
+
+
+6.For Running The Application/Package Always, Even After Restart Or Shutdown
+
+# chk confill packagename on
+
+
+7. If You Want To Stop The Application Which Is Alway In Running State
+
+# chk confill packagename off
+
+
+8. To list all installed packages on a Linux system
+
+# yum list installed
+
+
+9. To Check If Only One Software Is Available In Your System or Not
+
+# which packagename
+
+10. For Checking The Username
+
+# whoami
+
+(output)
+root user name
