@@ -1,0 +1,11 @@
+1.To Copy The Contents Of One File To Another File
+
+# cp file1 file2
+
+2. Move/Cut A File To Another Directory
+
+# mv file1 /path/to/directory
+
+23. How To Rename of a File
+
+# mv oldfilename newfilename
