@@ -1,0 +1,19 @@
+1. If You Want To Know, Which Machine You Are Using
+
+# hostname
+
+2. For Checking Ip Address For Machine
+
+# ifconfig
+
+(This will show details about all network interfaces, like IP address, MAC address, etc)
+
+3. If You Only Need The System's Ip Address
+
+# hostname -i
+
+4. To Check The Linux Version You Are Using
+
+# cat /etc/os-release
+
+(output- os version will show on the screen)
