@@ -1,0 +1,19 @@
+1. Make a Directory
+
+# mkdir directoryname
+
+2. Check/Verify The Directory
+
+# ls
+
+3. Change the Directory
+
+# cd
+
+4. Detail Information for Directory
+
+ # ls -l
+
+5. To Create Multiple Directories at Once
+
+# mkdir dir1 dir2 dir3 dir4
