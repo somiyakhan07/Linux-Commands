@@ -1,0 +1,13 @@
+1.For Sending The Message While Sharing The Screen, Message Will Go To All The User
+
+# echo "<Your message here>" | wall
+
+2. You Can Create A File By Echo
+
+# echo welcome > filename
+
+(the file will contain welcome)
+
+3. To Add A Single Line Or Message To A File Using Echo
+
+# echo "Your message here" >> filename
