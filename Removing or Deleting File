@@ -1,0 +1,11 @@
+1. Remove Non-empty File And Directory As Well
+
+# rm -rf
+
+2. Remove Non-empty File And Directory Including Parent & Sub Directory
+
+# rm -rp
+
+3. Remove entire Directory
+
+# rm -r
