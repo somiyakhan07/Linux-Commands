@@ -1,0 +1,22 @@
+1.To Create an Archive Of The dirx Directory And Save It as dirxtar.tar
+
+# tar -cvf mumbai.tar mumbai
+
+2. For Compressing and Making a Zip File
+
+# gzip mumbai.tar
+
+3. For Checking This Zip File
+
+# ls -l
+
+(output)
+mumbai.tar.gz
+
+4. For Making Unzip File (Removing) Gz
+
+# gunzip mumbai.tar.gz
+
+5. To Extract the contents of .Tar File
+
+# tar -xvf mumbai.tar
