@@ -1,0 +1,19 @@
+8. To Create a Touch File
+
+# touch filename
+
+9. To Display The Full Path Of The Current Directory You Are In
+
+# pwd
+
+10. To Know When That File was Access Last Time
+
+# touch -a filename
+
+11. When the Late Time That File was Modified
+
+# touch -m
+
+12. For Cheacking All The Staff like (Access Time, Modify Time, Change Time, Metadata)
+
+# stat filename
