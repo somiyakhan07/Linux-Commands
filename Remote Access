@@ -1,0 +1,32 @@
+1. SSH (secure shell) You Can Conect With The Server
+
+# ssh username@ipaddress
+
+2. SCP (This Command is used For Copy the Owner Server to Other Server)
+
+# scp filename_username@ip:/tmp
+
+(My Computer Connecting With The Other Computer On The Public Ip)
+
+3. For Communication With Frontend and Backend
+
+# jdbc .properties
+
+
+4. A Command Used To Test Network Connectivity
+
+# ping www.google.com
+
+
+5. Verify If The Server Is Accepting Connections On That Specific Port
+
+# telnet google.com 8080
+
+
+6. List All The Commands That Have Been Executed In The Current Terminal (All Commands History)
+
+# history
+
+7. If You Want To Delete The History
+
+# history -c
