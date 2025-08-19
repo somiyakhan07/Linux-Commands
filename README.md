@@ -11,9 +11,4 @@ This repository includes:
 
 ---
 
-## **📜 License**  
-This repository is licensed under the **MIT License** – free to use, modify, and share!  
-
----
-
 🚀 **Happy Learning!** 🐧
